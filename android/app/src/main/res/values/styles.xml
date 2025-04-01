@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default App Theme -->
+    <style name="Theme.App.SplashScreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your splash screen style -->
+
+    </style>
+</resources>
