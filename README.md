@@ -137,8 +137,10 @@ This project is **not** an open-source project, but it is **public for people to
 
 ## 📸 Screenshots
 
-![Will add in a few days](assets/demo.gif)
-
+![home](assets/ss/home.jpeg)
+![host](assets/ss/host.jpeg)
+![join](assets/ss/join.jpeg)
+![call](assets/ss/call.jpeg)
 
 ---
 
@@ -150,8 +152,27 @@ This app is designed for private, secure communication. However, **I am not resp
 
 🎯 **If you like this project, give it a ⭐ on GitHub!**
 
+## 🔮 Future Advancements  
+
+Kabootar is already **secure and efficient**, but here are some **possible future upgrades**:  
+
+- **📂 File Sharing via WebRTC DataChannel**  
+  Send PDFs, images, and documents directly over the peer-to-peer connection, without third-party servers.  
+
+- **🖥️ Screen Sharing**  
+  Share your screen with the other caller using WebRTC’s built-in screen capture APIs.  
+
+- **🎛️ Advanced Audio Routing**  
+  Fixing the earpiece-only issue, allowing seamless switching between earpiece, speaker, and Bluetooth.  
+
+- **🔄 Back Camera Support**  
+  Bringing back the toggle to switch between front and back cameras without breaking remote video streams.  
+
+- **🛑 Call Timeout & Auto Cleanup**  
+  Automatically clean up inactive calls and handle unexpected disconnects more gracefully.  
 
 
-## 📝 License
+## 📝 License  
 
-This project is licensed under the MIT License - see the [LICENSE]\(./LICENSE) file for details.\
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.  
+
